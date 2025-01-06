@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-body-green{
+    background-color: #B9FF66;
+}
+.box-shadow{
+    box-shadow: 0 5px 0 rgba(0, 0, 0, 0.8);
+}
+.text-color{
+    color: #B9FF66;
+}
+.footer .form-control::placeholder {
+    color: #ffffff; 
+}
+/* Accordion Background Colors */
+.accordion{
+    --bs-accordion-active-bg: #F3F3F3;
+}
+.accordion:hover{
+    --bs-accordion-active-bg: #B9FF66;
+}
+/* /Accordion Background Colors */
